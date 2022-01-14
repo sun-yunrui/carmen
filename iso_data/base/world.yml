@@ -975,6 +975,10 @@
   alpha_3_code: WSM
   numeric_code: '882'
   type: country
+- alpha_2_code: XK
+  alpha_3_code: XXK
+  numeric_code: '926'
+  type: country
 - alpha_2_code: YE
   alpha_3_code: YEM
   numeric_code: '887'

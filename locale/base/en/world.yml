@@ -977,6 +977,10 @@ en:
       common_name:
       name: Samoa
       official_name: Independent State of Samoa
+    xk:
+      common_name:
+      name: Kosovo
+      official_name: Republic of Kosovo
     ye:
       common_name:
       name: Yemen
@@ -997,7 +1001,3 @@ en:
       common_name:
       name: Zimbabwe
       official_name: Republic of Zimbabwe
-    xk:
-      common_name:
-      name: Kosovo
-      official_name: Republic of Kosovo
